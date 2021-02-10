@@ -2627,3 +2627,8 @@ $rundom4 [+] Server   : $server[0]
 $rundom2 [+] Masa     : $aktif[0]
 \n";
 echo"\r";}}}
+
+elseif($create=="4"){
+  echo"$rundom Cooming$rundom1 Soon";
+  }
+//Code !! By Haku!!
