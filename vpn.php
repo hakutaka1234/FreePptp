@@ -2629,6 +2629,7 @@ $rundom2 [+] Masa     : $aktif[0]
 echo"\r";}}}
 
 elseif($create=="4"){
-  echo"$rundom Cooming$rundom1 Soon";
+  echo"$rundom Cooming$rundom1 Soon\n";
+  echo"\r";
   }
 //Code !! By Haku!!
